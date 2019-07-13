@@ -1,0 +1,5 @@
+<root>
+    <item name='com.alibaba.druid.pool.DruidDataSource'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
